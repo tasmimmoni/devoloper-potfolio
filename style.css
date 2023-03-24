@@ -1,0 +1,26 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.moni {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.mim {
+    padding-top: 15%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(71, 71, 184);
+    padding: 10px 40px;
+}
