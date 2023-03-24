@@ -23,4 +23,7 @@ section {
     text-decoration: none;
     background-color: rgb(71, 71, 184);
     padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 20px;
 }
