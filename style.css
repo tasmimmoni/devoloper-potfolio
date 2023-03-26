@@ -9,11 +9,15 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 30px;
+}
+
 .moni {
     color: orange;
 }
 
-section {
+.ssss {
     display: flex;
     margin-bottom: 100px;
 }
@@ -37,7 +41,7 @@ section {
     background-position: top 5px;
 }
 
-section {
+.ssss {
     display: flex;
 
 
@@ -66,4 +70,36 @@ section {
 .banner {
     background-image: url(images/icons/react.png);
     background-repeat: no-repeat;
+}
+
+.expreance h3 {
+    color: red;
+}
+
+.expreance {
+    background-image: url(images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+
+
+.old {
+    box-shadow: 10px 10px 20px black;
+    margin-left: 40px;
+    padding-left: 25px;
+    border-radius: 8px;
+
+
+
+}
+
+#newb {
+    border-left: 7px solid blue;
+
+}
+
+#newa {
+    border-left: 7px solid rgb(238, 136, 19);
 }
